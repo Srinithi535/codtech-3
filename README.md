@@ -1,12 +1,12 @@
 # codtech-3
-# 📊 Real-Time Streaming Dashboard using Power BI
+#  Real-Time Streaming Dashboard using Power BI
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates how to build a **real-time dashboard** using Power BI and streaming data. The dashboard automatically updates whenever new data is received, enabling instant monitoring and live analytics. This type of system is commonly used in business intelligence, finance monitoring, IoT systems, and operational tracking.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To design and deploy a **live Power BI dashboard** that:
 - Accepts streaming data
 - Updates automatically
@@ -14,7 +14,7 @@ To design and deploy a **live Power BI dashboard** that:
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Power BI Service  
 - Streaming Dataset (API)  
 - Python (for data simulation)  
@@ -22,9 +22,9 @@ To design and deploy a **live Power BI dashboard** that:
 
 ---
 
-## ⚙️ Implementation Steps
+##  Implementation Steps
 
-### 1️⃣ Create Streaming Dataset
+### 1️ Create Streaming Dataset
 - Open Power BI Service  
 - Go to **Workspace → New → Streaming Dataset**  
 - Select **API**  
@@ -35,7 +35,7 @@ To design and deploy a **live Power BI dashboard** that:
 
 ---
 
-### 2️⃣ Push Streaming Data (Python Script)
+### 2️ Push Streaming Data (Python Script)
 
 ```python
 import requests
